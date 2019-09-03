@@ -1,5 +1,5 @@
 # BT BEATS
-Transforming The Business Times’ articles into an indicator of Business & Economic Activity Trends & Sentiment, or BEATS.
+Transforming The Business Times’ articles into an indicator of Business & Economic Activity Trends & Sentiment, or [BEATS](https://btbeats.herokuapp.com/).
 
 ### Goal
 
@@ -33,7 +33,7 @@ Transforming The Business Times’ articles into an indicator of Business & Econ
   - Use `latent Dirichlet Allocation` for topic modelling.
 
 - Dashboard creation:
-  - Use `Plotly` and `Dash` to create a [dashboard](https://btbeats.herokuapp.com/). ![BT BEATS screenshot](./plotly/images/bt-beats-screenshot)
+  - Use `Plotly` and `Dash` to create a [dashboard](https://btbeats.herokuapp.com/).
 
   ## Conclusion
 
@@ -58,4 +58,4 @@ Transforming The Business Times’ articles into an indicator of Business & Econ
   - Invest in a proprietary lexicon that suits the unique context of the Singapore economy.
 
   Further notes:
-  - the `.csv` file containing all the BT articles is not included in this repository as copyright lies with SPH. Instead, an abridged file containing the headlines and sentiment scores is uploaded. 
+  - The `.csv` file containing all the BT articles is not included in this repository as copyright lies with SPH. Instead, an abridged file containing the headlines and sentiment scores is uploaded.
