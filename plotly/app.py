@@ -205,7 +205,7 @@ def render_master_content(tab):
                 dcc.Tab(label='Quarterly topics', value='quarterly-topics'),
             ]),
             html.Div(id='topics-tabs-content')
-            ], style={'height':600})
+            ])
         ])
 
     elif tab == 'tab-subject':
